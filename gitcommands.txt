@@ -1,7 +1,17 @@
-git 
+OPEN A TERMINAL and type git. Its good if you get "git help -a"
 
-git aad .
+git init = Makes the folder to start working with git.
 
-git commit -m "first commit"
+git aad . = Tells git to track all files.
 
+git commit -m "message" = Attach a message to the changes done
+
+git config --global user.email "emailusedingithub"
+
+git config --global user.name "githubusername"
+
+
+
+
+git push origin master
 
