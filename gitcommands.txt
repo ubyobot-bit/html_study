@@ -1,1 +1,7 @@
-git
+git 
+
+git aad .
+
+git commit -m "first commit"
+
+
